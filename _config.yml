@@ -1,0 +1,8 @@
+# Site wide configuration
+
+title: Tiven's cdnjs libs
+locale: zh
+description: cdnjs libs for http://tiven.wang
+logo: site-logo.png
+search: true
+url: http://cdnjs.tiven.wang
